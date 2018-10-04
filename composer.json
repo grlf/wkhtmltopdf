@@ -1,0 +1,21 @@
+{
+    "name": "jhoopes/wkhtmltopdf",
+    "description": "Composer package for wkhtmltopdf binary on amd64 architectures",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/jhoopes/wkhtmltopdf/issues",
+        "source": "https://github.com/jhoopes/wkhtmltopdf"
+    },
+    "authors": [
+        {
+            "name": "John Hoopes"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jhoopes\\WKHTMLToPDF\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+
+}
