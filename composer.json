@@ -1,10 +1,10 @@
 {
-    "name": "jhoopes/wkhtmltopdf",
+    "name": "grlf/wkhtmltopdf",
     "description": "Composer package for wkhtmltopdf binary on amd64 architectures",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/jhoopes/wkhtmltopdf/issues",
-        "source": "https://github.com/jhoopes/wkhtmltopdf"
+        "issues": "https://github.com/grlf/wkhtmltopdf/issues",
+        "source": "https://github.com/grlf/wkhtmltopdf"
     },
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "jhoopes\\WKHTMLToPDF\\": "src/"
+            "GRLF\\WKHTMLToPDF\\": "src/"
         }
     },
     "minimum-stability": "dev"

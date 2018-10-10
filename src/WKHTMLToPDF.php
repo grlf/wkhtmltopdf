@@ -1,6 +1,6 @@
 <?php
 
-namespace jhoopes\WKTMLToPDF;
+namespace GRLF\WKTMLToPDF;
 
 class WKTMLToPDF 
 {
